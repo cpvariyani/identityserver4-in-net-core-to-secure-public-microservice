@@ -1,0 +1,2 @@
+# identityserver4-in-net-core-to-secure-public-microservice
+This is a practical example to demonstrate how to secure public microservices in .Net core using Identity server 4.   In this video, we have created IdentityServer4, created sample public microservice, integrated that microservice with identity server and last this securing microservice using identity server is tested using postman.   A practical example of How to create Identity server in .net core for grant type to client credentials
